@@ -1,6 +1,7 @@
 ТЗ: Переделать 1 лабу под стандарт openMP
 
 Результаты: 
+
 <img width="347" alt="Снимок экрана 2022-10-07 в 19 33 58" src="https://user-images.githubusercontent.com/75227915/194554427-929b4063-2a81-444d-9025-846846021ea0.png">
 
 <img width="465" alt="Снимок экрана 2022-10-07 в 19 34 53" src="https://user-images.githubusercontent.com/75227915/194554720-bdf5e174-a6d5-4bc7-81ef-6150da84e447.png">

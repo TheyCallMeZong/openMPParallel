@@ -1,0 +1,4 @@
+/Users/semensavcenko/CLionProjects/1LabaParallelprogramming/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir
+/Users/semensavcenko/CLionProjects/1LabaParallelprogramming/untitled1/cmake-build-debug/CMakeFiles/CLionOpenMPExample.dir
+/Users/semensavcenko/CLionProjects/1LabaParallelprogramming/untitled1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/semensavcenko/CLionProjects/1LabaParallelprogramming/untitled1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
